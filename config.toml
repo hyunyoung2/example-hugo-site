@@ -2,7 +2,7 @@ baseURL = "https://hyunyoung2.github.io/example-hugo-site/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 
-title = "Test site for KoNLTK and KoNLP"
+title = "Test Site for KoNLTK and KoNLP"
 theme = "docdock"
 themesDir = "themes"
 publishDir = "docs"
