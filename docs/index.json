@@ -11,7 +11,7 @@
 	"title": "Getting started",
 	"tags": [],
 	"description": "",
-	"content": " Requirements Download Hugo binary for your OS (Windows, Linux, Mac) : it’s that simple\n Installation HUGO v0.30 minimum required to use this theme The following steps are here to help you initialize your new website. If you don’t know Hugo at all, we strongly suggest you to train by following this great documentation for beginners.  Configuration \n "
+	"content": " Requirements Download Hugo binary for your OS (Windows, Linux, Mac) : it’s that simple\n Installation HUGO v0.30 minimum required to use this theme The following steps are here to help you initialize your new website. If you don’t know Hugo at all, we strongly suggest you to train by following this great documentation for beginners.  Configuration When building the website, you can set a theme by using --theme option. We suggest you to edit your configuration file and set the theme by default. Example with config.toml format.  "
 },
 {
 	"uri": "https://hyunyoung2.github.io/example-hugo-site/getting-start/installation/",
