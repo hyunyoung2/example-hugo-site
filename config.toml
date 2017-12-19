@@ -1,4 +1,4 @@
-baseURL = "https://hyunyoung2.github.io/example-hugo-site"
+baseURL = "https://hyunyoung2.github.io/example-hugo-site/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 
