@@ -44,11 +44,11 @@ visit [the customized version](https://hyunyoung2.github.io/hyunyoung2-customizi
 
 # Reference 
 
-- [How to make hugo static site with themes](https://www.youtube.com/watch?v=3wkR8GyDODs)
+  - [How to make hugo static site with themes](https://www.youtube.com/watch?v=3wkR8GyDODs)
 
-- [hugo themes](https://themes.gohugo.io/)
+  - [hugo themes](https://themes.gohugo.io/)
 
-- [hugo-theme-dockdock repository](https://github.com/vjeantet/hugo-theme-docdock)
+  - [hugo-theme-dockdock repository](https://github.com/vjeantet/hugo-theme-docdock)
 	* This repository is referenced to make this hugo static site for my site. 
 	
 
