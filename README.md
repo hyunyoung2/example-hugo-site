@@ -1,4 +1,4 @@
-# [Example of hugo static site(hyunyoung2's hugo static site)](https://hyunyoung2.github.io/example-hugo-site) 
+# [Example of hugo static site(hyunyoung2's hugo static site)](https://hyunyoung2.github.io/hyunyoung2-example-hugo-site/) 
 
 This hugo static site is for practice of how to make hugo site with Theme that [The officail HUGO site](https://themes.gohugo.io/) provide you. 
 
@@ -40,7 +40,7 @@ The easiest way to generate the hugo site is **fork**
 
 and if you want to see sample you can cumstomizing with this theme. 
 
-visit [the customized version](https://hyunyoung2.github.io/customizing-version-hugo-example)
+visit [the customized version](https://hyunyoung2.github.io/hyunyoung2-customizing-version-hugo-example)
 
 # Reference 
 
