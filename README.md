@@ -49,6 +49,7 @@ visit [the customized version](https://hyunyoung2.github.io/hyunyoung2-customizi
   - [hugo themes](https://themes.gohugo.io/)
 
   - [hugo-theme-dockdock repository](https://github.com/vjeantet/hugo-theme-docdock)
+  
 	* This repository is referenced to make this hugo static site for my site. 
 	
 
