@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Test Site for KoNLTK and KoNLP</title>
+    <link>https://hyunyoung2.github.io/hyunyoung2-example-hugo-site/post/</link>
+    <description>Recent content in Posts on Test Site for KoNLTK and KoNLP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Dec 2017 19:57:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://hyunyoung2.github.io/hyunyoung2-example-hugo-site/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://hyunyoung2.github.io/hyunyoung2-example-hugo-site/post/first-post/</link>
+      <pubDate>Thu, 07 Dec 2017 19:57:00 +0900</pubDate>
+      
+      <guid>https://hyunyoung2.github.io/hyunyoung2-example-hugo-site/post/first-post/</guid>
+      <description>Hellow! This is my first post with some theme of Hugo, static site generator.
+Please come back some other time when I&amp;rsquo;ve written something worth your time.
+Thanks!
+한국어(韓國語) 또는 조선어(朝鮮語)은 제주도를 포함한 한반도 및 그 부속 도서와 한민족 거주 지역에서 쓰이는 언어로, 대한민국에서는 한국어, 한국말이라고 부르고, 조선민주주의인민공화국과 중화인민공화국에서는 조선어, 조선말이라고 부르며, 구 소련의 고려인들 사이에서는 고려말(高麗말)이라고 부른다.</description>
+    </item>
+    
+  </channel>
+</rss>
