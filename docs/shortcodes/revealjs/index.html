@@ -29,8 +29,6 @@
 </script>
 
 
-
-
     
   </head>
   <body data-url="/hyunyoung2-example-hugo-site/shortcodes/revealjs/">
@@ -103,7 +101,7 @@
     <li data-nav-id="/hyunyoung2-example-hugo-site/create-page/" class="dd-item haschildren
         ">
       <div>
-      <a href="/hyunyoung2-example-hugo-site/create-page/"><i class='fa fa-edit'></i> Create Page</a><i class="fa fa-angle-right fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
+      <a href="/hyunyoung2-example-hugo-site/create-page/"><i class='fa fa-edit' ></i> Create Page</a><i class="fa fa-angle-right fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
       </div>
         <ul>
       <li data-nav-id="/hyunyoung2-example-hugo-site/create-page/homepage/" class="dd-item">
@@ -587,13 +585,67 @@ function slideFullScreen() {
 
 <h2 id="source">Source :</h2>
 
+<p><div class="expand">
+    <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fa fa-chevron-down' : 'fa fa-chevron-right';});});">
+        <i style="font-size:x-small;" class="fa fa-chevron-right"></i>
+        <span>
+        
+        
+        Show code ...
+        
+        </span>
+    </div>
+    <div class="expand-content" style="display: none;">
+<pre><code>{{&lt;revealjs theme=&quot;moon&quot; progress=&quot;true&quot;&gt;}}
+
+# In the morning
+
+___
+
+
+## Getting up
+
+- Turn off alarm
+- Get out of bed
+
+___
+
+## Breakfast
+
+- Eat eggs
+- Drink coffee
+
+---
+
+# In the evening
+
+___
+
+## Dinner
+
+- Eat spaghetti
+- Drink wine
+
+___
+
+## Going to sleep
+
+- Get in bed
+- Count sheep
+
+{{&lt;revealjs&gt;}}
+
+</code></pre>
+
+    </div>
+</div></p>
+
 <ul>
 <li><a href="https://raw.githubusercontent.com/vjeantet/hugo-theme-docdock/master/exampleSite/content/shortcodes/revealjs.md">
 
 <span class="glyphicon glyphicon-sunglasses" aria-hidden="true"></span>
 
- click here to view raw content</a>
-editURL</li>
+ click here to view raw content</a></li>
 </ul>
 
 

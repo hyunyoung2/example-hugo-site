@@ -29,8 +29,6 @@
 </script>
 
 
-
-
     
   </head>
   <body data-url="/hyunyoung2-example-hugo-site/shortcodes/children/">
@@ -103,7 +101,7 @@
     <li data-nav-id="/hyunyoung2-example-hugo-site/create-page/" class="dd-item haschildren
         ">
       <div>
-      <a href="/hyunyoung2-example-hugo-site/create-page/"><i class='fa fa-edit'></i> Create Page</a><i class="fa fa-angle-right fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
+      <a href="/hyunyoung2-example-hugo-site/create-page/"><i class='fa fa-edit' ></i> Create Page</a><i class="fa fa-angle-right fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
       </div>
         <ul>
       <li data-nav-id="/hyunyoung2-example-hugo-site/create-page/homepage/" class="dd-item">
@@ -482,7 +480,7 @@
 <tr>
 <td align="left">style</td>
 <td align="left">&ldquo;li&rdquo;</td>
-<td align="left">Choose the style used to display descendants. It could be any HTML tag name</td>
+<td align="left">Choose the style used to display descendants. It could be any HTML tag name, use &ldquo;card&rdquo; to display children pages as cards</td>
 </tr>
 
 <tr>
@@ -699,6 +697,42 @@ role="alert"><strong>Tips:</strong> set 999 to get all descendants</div>
 
 <span><div>
         <a href="/hyunyoung2-example-hugo-site/shortcodes/children/test/" >page test</a></div>
+</span>
+</ul>
+
+<pre><code>{{% children style=&quot;card&quot; depth=&quot;2&quot;  description=&quot;true&quot; %}}
+</code></pre>
+
+<ul class="children children-card">
+
+<span><card>
+        <a href="/hyunyoung2-example-hugo-site/shortcodes/children/children-1/" >page 1</a></card>
+<p>This is a demo child page</p>
+</span>
+
+<span><card>
+        <a href="/hyunyoung2-example-hugo-site/shortcodes/children/children-1/children-1-1/" >page 1-1</a></card>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+</span>
+
+<span><card>
+        <a href="/hyunyoung2-example-hugo-site/shortcodes/children/children-2/" >page 2</a></card>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+</span>
+
+<span><card>
+        <a href="/hyunyoung2-example-hugo-site/shortcodes/children/children-2/test3/" >page test 3</a></card>
+<p>This is a page test</p>
+</span>
+
+<span><card>
+        <a href="/hyunyoung2-example-hugo-site/shortcodes/children/children-3/" >page 3</a></card>
+<p>This is a demo child page</p>
+</span>
+
+<span><card>
+        <a href="/hyunyoung2-example-hugo-site/shortcodes/children/test/" >page test</a></card>
+<p>This is a page test</p>
 </span>
 </ul>
 

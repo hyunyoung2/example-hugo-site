@@ -63,11 +63,6 @@
   </url>
   
   <url>
-    <loc>https://hyunyoung2.github.io/hyunyoung2-example-hugo-site/</loc>
-    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hyunyoung2.github.io/hyunyoung2-example-hugo-site/create-page/myslide/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
@@ -98,6 +93,11 @@
   
   <url>
     <loc>https://hyunyoung2.github.io/hyunyoung2-example-hugo-site/content-organisation/customize-style/disable/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hyunyoung2.github.io/hyunyoung2-example-hugo-site/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
   <url>
